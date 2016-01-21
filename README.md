@@ -1,0 +1,2 @@
+# BetterBans
+A Minecraft plugin.
